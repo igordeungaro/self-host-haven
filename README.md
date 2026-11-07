@@ -2370,3 +2370,12 @@ Contributing guidelines can be found [here](https://github.com/awesome-selfhoste
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
 The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: própria do projeto (ver o arquivo LICENSE) (mantida sem alterações).
+
+**Fonte original:** https://github.com/awesome-selfhosted/awesome-selfhosted
